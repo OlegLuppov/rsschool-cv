@@ -33,6 +33,8 @@ alert( result );
 - Sarapul Technical College of Mechanical Engineering (engineering technology 2012)
 - Utest Academy 
 ## Languages 
+- **Russian:** free reign
+- **English:** A2
 
 
 
