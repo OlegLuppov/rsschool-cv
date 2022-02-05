@@ -14,7 +14,7 @@ I am 28 years old, I work at the plant as a machine tool adjuster with numerical
 - Figma
 - Git/github
 ## Cod Example
-```
+```javascript
 function sum(a, b) {
  
   return a + b;
