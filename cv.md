@@ -30,6 +30,9 @@ alert( result );
 - stage0 rs-school interface
 - Passed the Utest academy as a QA
 ## Education
+- Sarapul Technical College of Mechanical Engineering (engineering technology 2012)
+- Utest Academy 
+## Languages 
 
 
 
