@@ -13,7 +13,10 @@ I am 28 years old, I work at the plant as a machine tool adjuster with numerical
 - JavaScript (basik)
 - Figma
 - Git/github
+---
+
 ## Cod Example
+
 ```javascript
 function sum(a, b) {
  
@@ -25,6 +28,9 @@ let result = sum(1, 2);
 
 alert( result ); 
 ```
+
+---
+
 ## Experience
 - Experience as an adjuster of machine tools with program control (since 2016)
 - stage0 rs-school interface
