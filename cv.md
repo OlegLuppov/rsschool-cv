@@ -6,7 +6,7 @@
 - **E-mail:** lupperpuper@gmail.com
 - **GitHub:** [lupperpuper](https://github.com/lupperpuper)
 # About Me
-I am 28 years old, I work at the plant as a machine tool adjuster with numerical program control. At some point I realized that this is a dead end and there is no where to grow. Now I started to master the profession of "JS frontend developer" and it dragged me on, I understand that there is no limit to it, technologies are growing and appearing, and I can move in place with them.
+I am 28 years old, I work at the plant as a machine tool adjuster with numerical program control. At some point I realized that this is a dead end and there is no where to grow. Now I started to master the profession of **"JS frontend developer"** and it dragged me on, I understand that there is no limit to it, technologies are growing and appearing, and I can move in place with them.
 ## Skills
 - HTML
 - CSS
