@@ -1,3 +1,3 @@
 # rsschool-cv 
-https://lupperpuper.github.io/rsschool-cv/lupperpuper
+https://lupperpuper.github.io/rsschool-cv/
 
