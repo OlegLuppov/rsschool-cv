@@ -72,7 +72,7 @@ display: flex;
 .flex {display:flex ;
 }
 .name {
-    color: #BB7A3B;
+    color:coral;
     font-size: 143px;
       font-weight: 700;
       margin: 0px ;
@@ -93,7 +93,7 @@ display: flex;
 .profession {
     font-weight: 500;
     font-size: 25px;
-    color: grey 2;
+    color: grey ;
     
 }
     .header {
@@ -108,6 +108,7 @@ display: flex;
         width: 400px;
         font-weight: 600;
         font-size: 25px;
+        color: gray;
         
     }
     .imagecontact {
@@ -119,6 +120,7 @@ display: flex;
         list-style-type: none ;
         margin-right: 0 ;
         padding-right: 0;
+        color: gray;
     }
     .flex-spisok {
         display: flex;
@@ -148,25 +150,72 @@ display: flex;
 
 }
 .conteiner-about {
-    
+
     margin-top: 40px;
+   
 }
+
    
     .about-me {
         font-size: 25px;
         font-weight: 600;
         border-bottom: 5px solid coral; 
         margin-bottom: 25px; 
+        color: gray;
     }
         
     .main {
-        background-color: #BB7A3B;
+        background-color: #2d2e2e;
     }
     
 .paragraf {
     
     font-size: 35px;
-
 }
+.cod {
+    margin-top: 69px;
+}
+
+.cod__example {
+    font-size: 25px;
+    font-weight: 600;
+    color: gray;
+    
+    
+    
+}
+
+.cod__task {
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 5px solid coral;
+    margin-bottom: 25px;
+    color: gray;
+}
+.cod__example-task {
+    background-color: aqua;
+}
+.body {
+    background-color: #2d2e2e;
+}
+
+a,ul,li,p {
+    text-decoration: none;
+}
+
+a {
+    color: coral;
+}
+
+a:hover {
+    color: white;
+}
+
+   
+
+
+    
+
+
 
 
