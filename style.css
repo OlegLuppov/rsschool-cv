@@ -1,0 +1,221 @@
+/* reset standart style */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+} 
+/* ----- reset and */
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Slab:wght@400;700;900 & display=swap');
+.foto {
+
+    width: 400px;
+    height: 400px;
+    
+}
+
+.conteiner { 
+font-family: 'Roboto Slab' , sans-serif;
+    max-width: 1000px;
+margin: 0 auto;
+display: flex;
+
+}
+
+.flex {display:flex ;
+}
+.name {
+    color:coral;
+    font-size: 143px;
+      font-weight: 700;
+      margin: 0px ;
+      line-height: 100px;
+      display: flex;
+      flex-direction: column;
+      
+    
+}
+.family {
+    color:grey;
+    font-size: 90px;
+    font-weight: 600;
+    margin:40px 0px 25px 0px ;
+    
+    
+}
+.profession {
+    font-weight: 500;
+    font-size: 25px;
+    color: grey ;
+    
+}
+    .header {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    .conteiner-i {
+        margin: 50px 100px 0px 200px;
+    }
+    .lists {
+        border-bottom: 5px solid coral;
+        width: 400px;
+        font-weight: 600;
+        font-size: 25px;
+        color: gray;
+        
+    }
+    .imagecontact {
+        width: 25px;
+        height: 25px;
+        margin-right: 25px;
+    }
+    ul,li,p {
+        list-style-type: none ;
+        margin-right: 0 ;
+        padding-right: 0;
+        color: gray;
+    }
+    .flex-spisok {
+        display: flex;
+        align-items: center;
+        margin: 25px 0 ;
+    }
+.lists {
+    margin:40px 325px 25px 0px ;
+    border-bottom: 5px solid coral ;
+    width: 400px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.marcker {
+    margin:25px 0px 25px 17px;
+    list-style-type: disc;
+}
+
+    
+
+
+.conteiner-lists {
+    width: 500px;
+    
+    
+
+
+}
+.conteiner-about {
+
+    margin-top: 40px;
+   
+}
+
+   
+    .about-me {
+        font-size: 25px;
+        font-weight: 600;
+        border-bottom: 5px solid coral; 
+        margin-bottom: 25px; 
+        color: gray;
+    }
+        
+    .main {
+        background-color: #2d2e2e;
+    }
+    
+.paragraf {
+    
+    font-size: 35px;
+}
+.cod {
+    margin-top: 69px;
+}
+
+.cod__example {
+    font-size: 25px;
+    font-weight: 600;
+    color: gray;
+    
+    
+    
+}
+
+.cod__task {
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 5px solid coral;
+    margin-bottom: 25px;
+    color: gray;
+}
+.cod__example-task {
+    background-color: aqua;
+}
+.body {
+    background-color: #2d2e2e;
+}
+
+a,ul,li,p {
+    text-decoration: none;
+}
+
+a {
+    color: coral;
+}
+
+a:hover {
+    color: white;
+}
+
+   
+
+
+    
+
+
+
+
